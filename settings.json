@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": enchantedmonk.aternos.me,
+    "ip": "enchantedmonk.aternos.me",
     "port":20083,
     "version": "",
     "try-creative": false
