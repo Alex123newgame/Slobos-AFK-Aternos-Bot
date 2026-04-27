@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "enchantedmonk.aternos.me",
-    "port":20083,
+    "port":"20083",
     "version": "",
     "try-creative": false
   },
